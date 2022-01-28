@@ -4,6 +4,7 @@
 	include('../back/function.php'); 
 
 	$id=intval($_SESSION['id']);
+	/*Hola*/
 ?>
 <!DOCTYPE html>
 <html lang="en">
